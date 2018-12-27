@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faListAlt } from '@fortawesome/free-solid-svg-icons';
 
-import './Header.css';
+import './Header.scss';
 
 const headerPropTypes = {
   className: PropTypes.string.isRequired,

@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCheck, faTimes } from '@fortawesome/free-solid-svg-icons';
 
-import './FormEdit.css';
+import './FormEdit.scss';
 
 export default class FormEdit extends Component {
   static propTypes = {

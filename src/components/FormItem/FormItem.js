@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 
-import './FormItem.css';
+import './FormItem.scss';
 
 import PropertyBar from '../PropertyBar/PropertyBar';
 import Checkout from '../Checkout/Checkout';

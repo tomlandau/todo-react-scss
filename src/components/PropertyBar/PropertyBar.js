@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEdit, faTrash } from '@fortawesome/free-solid-svg-icons';
 
-import './PropertyBar.css';
+import './PropertyBar.scss';
 
 const propertyBarPropTypes = {
   id: PropTypes.string.isRequired,

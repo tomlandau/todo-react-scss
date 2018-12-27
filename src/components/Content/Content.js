@@ -6,7 +6,7 @@ import Form from '../Form/Form';
 import FormEdit from '../FormEdit/FormEdit';
 import FormItem from '../FormItem/FormItem';
 
-import './Content.css';
+import './Content.scss';
 
 class Content extends Component {
   static propTypes = {
